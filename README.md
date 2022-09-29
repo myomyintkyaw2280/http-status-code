@@ -1,12 +1,12 @@
-# Here's some status code, which you should know for your kind of knowledge.
+### Here's some status code, which you should know for your kind of knowledge.
 
-## 1XX Information Responses
+### 1XX Information Responses
  - 100 Continue
  - 101 Switching Protocols
  - 102 Processing
  - 103 Early Hints
  
-## 2XX Success
+### 2XX Success
  - 200 OK
  - 201 Created
  - 202 Accepted
@@ -18,7 +18,7 @@
  - 208 Already Reported
  - 226 IM Used
 
-## 3XX Redirection
+### 3XX Redirection
  - 300 Multiple Choices
  - 301 Moved Permanently
  - 302 Found
@@ -29,7 +29,7 @@
  - 307 Temporary Redirect
  - 308 Permanent Redirect
 
-# 4XX Client errors
+### 4XX Client errors
  - 400 Bad Request
  - 401 Unauthorized
  - 402 Payment Required
@@ -60,7 +60,7 @@
  - 431 Request Header Fields Too Large
  - 451 Unavailable For Legal Reasons
 
-## 5XX Server errors
+### 5XX Server errors
  - 500 Internal Server error
  - 501 Not Implemented
  - 502 Bad Gateway
