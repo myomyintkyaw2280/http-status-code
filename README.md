@@ -1,4 +1,4 @@
-### Here's some status code, which you should know for your kind of knowledge.
+## Here's some status code, which you should know for your kind of knowledge.
 
 ### 1XX Information Responses
  - 100 Continue
